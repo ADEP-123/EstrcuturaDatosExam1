@@ -1,6 +1,6 @@
 const ej6 = /*html*/`
 <h1>Ejercicio 6</h1>
-<h2>Implementacion de los 3 metodos en arreglo grande mitad ordenado mitad no/h2>
+<h2>Implementacion de los 3 metodos en arreglo grande mitad ordenado mitad no</h2>
 <p id="enunciado">Ordenamiento de Arreglos Parcialmente Ordenados, diseña un arreglo en el que la mitad de los elementos estén ordenados y la otra mitad esté desordenada. Compara el rendimiento de los métodos de ordenamiento. ¿Cuál método demuestra ser más eficiente en este caso?
 <br>Para la elaboración de este ejercicio se crea un array de 10000 enteros, por lo cual imprimirlo es innecesario, sin embargo el código utilizado para cada método es muy similar a todos los anteriores planteados por lo cual se sabe que funciona.</p>
 <div id="codigo">
