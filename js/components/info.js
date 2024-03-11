@@ -9,6 +9,8 @@ const infoHome = /*html*/`
     boton desplegará una lista en la parte derecha en la cual dando click a alguno de los ejercicios
     depsplegará en este apartado la informacion del ejercicio, para volver a este menu en cualquier momento
     puede dar click en el boton home (el boton con forma de casa) en el panel superior izquierdo.
+    <br><br><b>Analisis:</b>
+    <br><u>Ejercicio1:</u> Se puede apreciar que para este groso de datos (365) el método Quicksort y método de burbuja mejorados fueron los mejores en desempeño, destacando en cuanto al tiempo y cantidad de comparaciones el quickSort.
 </p>
 <div id="contact_info_div">
     <a href="https://github.com/ADEP-123" target="_blank" class="github-link"><span class="material-icons"

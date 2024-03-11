@@ -1,5 +1,4 @@
 import infoHome from "./components/info.js";
-import config from "./config.js";
 
 document.addEventListener("DOMContentLoaded", function () {
     const info = document.getElementById("info")
@@ -18,6 +17,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 .then((modul) => {
                     info.innerHTML = modul.default;
                     Prism.highlightAll();
+
+                    const ejText = document.querySelector("#enunciado");
+                    ejText.style.textAlign = "justify";
 
                     const copyButtons = document.querySelectorAll('.copy-button');
                     const codeBlocks = document.querySelectorAll('.code-container');
@@ -42,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     info.innerHTML = /*html*/`
                     <h1>Estamos trabajando en esta seccion</h1>
                     <img src="../imgs/roborError.gif"></img>
-                    <!--<img src="https://adepfolder.000webhostapp.com/Programacion%201/imgs/roborError.gif"></img>-->
                     `;
                 });
 
