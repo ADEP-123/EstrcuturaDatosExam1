@@ -11,6 +11,7 @@ const infoHome = /*html*/`
     puede dar click en el boton home (el boton con forma de casa) en el panel superior izquierdo.
     <br><br><b>Analisis:</b>
     <br><u>Ejercicio1:</u> Se puede apreciar que para este groso de datos (365) el método Quicksort y método de burbuja mejorados fueron los mejores en desempeño, destacando en cuanto al tiempo y cantidad de comparaciones el quickSort.
+    <br><u>Ejercicio2:</u> Se concluye que el método burbuja y el método quick sort son los mejores métodos en cuando a uso de memoria, pero el método quick sort es el mejor en cuanto a la cantidad de comparaciones.
 </p>
 <div id="contact_info_div">
     <a href="https://github.com/ADEP-123" target="_blank" class="github-link"><span class="material-icons"
