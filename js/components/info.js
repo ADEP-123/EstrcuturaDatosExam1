@@ -15,6 +15,7 @@ const infoHome = /*html*/`
     <br><u>Ejercicio3:</u>   Se vio una reducción de 0.02 segundos en la ejecución del Quicksort en los arrays tipo string, sin embargo, en los array tipo int no se apreció esa diferencia.
     <br><u>Ejercicio4:</u>   Se pudo notar que el metodo de burbuja fue el que mejor se desempeño en este caso, sin embargo esta apreciacion solo se noto en el array tipo string.
     <br><u>Ejercicio5:</u>   Se pudo notar que el metodo de quick sort fue el que mejor se desempeño en este caso.
+    <br><u>Ejercicio6:</u>   En este caso se puede apreciar que tan rápido se ejecuta el método quick sort con respecto a los demás, demostrando que es el mas efectivo para este caso
 </p>
 <div id="contact_info_div">
     <a href="https://github.com/ADEP-123" target="_blank" class="github-link"><span class="material-icons"
