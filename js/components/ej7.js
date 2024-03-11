@@ -88,10 +88,10 @@ const ej6 = /*html*/`
 
         public static String[] generarArregloNombres(int cantidad) {
             String[] nombres = new String[cantidad];
-            String[] iniciales = { "Ana", "Luis", "María", "David", "Sofía", "Carlos", "Elena", "Alejandro", "Isabella",
+            String[] iniciales = { "Luis", "María", "David", "Sofía", "Carlos", "Elena", "Alejandro", "Isabella",
                     "Juan", "Valentina", "Andrea", "Pedro", "Camila", "Fernando", "Laura", "Diego", "Carolina", "Gabriel",
                     "Javier", "Ana", "Miguel", "Paula", "Max", "Bianca", "Daniel", "Isaac", "Olivia", "Ava", "Liam", "Eva",
-                    "Mia", "Sophia", "Amelia", "Isabella", "Luna", "Alexander", "Benjamin", "William", "Emma", "Oliver",
+                    "Mia", "Sophia", "Amelia", "Luna", "Alexander", "Benjamin", "William", "Emma", "Oliver",
                     "Noah", "Ethan", "Henry", "James", "Arjun", "Mateo", "Lucas" };
             Random rand = new Random();
             for (int i = 0; i < cantidad; i++) {
